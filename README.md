@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Antonio Wellington
 
-🎓 Estudante / 💻 Desenvolvedor(a) em formação  
+🎓 Estudante / 💻 Desenvolvedor em formação  
 📍 Brasil  
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 - 🌱 Atualmente estou me aprofundando em **[Java, html e css]**
 - 💡 Tenho interesse em **[área: front-end, back-end]**
-- 🎯 Objetivo: evoluir como desenvolvedor(a).
+- 🎯 Objetivo: evoluir como desenvolvedor.
 
 ---
 
